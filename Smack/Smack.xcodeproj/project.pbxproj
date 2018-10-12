@@ -21,6 +21,7 @@
 		5ED2200E216F0D0B00BA439D /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED2200D216F0D0B00BA439D /* CreateAccountVC.swift */; };
 		5ED22011217040EA00BA439D /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED22010217040EA00BA439D /* AuthService.swift */; };
 		5ED220132170508300BA439D /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED220122170508300BA439D /* RoundedButton.swift */; };
+		5ED2201521705CC400BA439D /* UserDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED2201421705CC400BA439D /* UserDataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		5ED2200D216F0D0B00BA439D /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 		5ED22010217040EA00BA439D /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		5ED220122170508300BA439D /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		5ED2201421705CC400BA439D /* UserDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDataService.swift; sourceTree = "<group>"; };
 		A83F52BDF9D5FC1937D11158 /* Pods-Smack.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.debug.xcconfig"; sourceTree = "<group>"; };
 		B5C741392D92E553EE5DC96C /* Pods-Smack.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Smack.release.xcconfig"; path = "Pods/Target Support Files/Pods-Smack/Pods-Smack.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -152,6 +154,7 @@
 			isa = PBXGroup;
 			children = (
 				5ED22010217040EA00BA439D /* AuthService.swift */,
+				5ED2201421705CC400BA439D /* UserDataService.swift */,
 			);
 			path = Services;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 				5ED22005216EF7DE00BA439D /* ChannelVC.swift in Sources */,
 				5ED220132170508300BA439D /* RoundedButton.swift in Sources */,
 				5ED22003216EF7CA00BA439D /* ChatVC.swift in Sources */,
+				5ED2201521705CC400BA439D /* UserDataService.swift in Sources */,
 				5ED2200E216F0D0B00BA439D /* CreateAccountVC.swift in Sources */,
 				5ED22011217040EA00BA439D /* AuthService.swift in Sources */,
 				5ED2200C216F0AFA00BA439D /* LoginVC.swift in Sources */,
