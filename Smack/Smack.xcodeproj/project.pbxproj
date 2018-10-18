@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4B6A7D7F757A53DF63FDA61B /* Pods_Smack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 41622F52D5E8DA4A7AF58AF1 /* Pods_Smack.framework */; };
+		5E5FD6CE2178388C00B976C8 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5FD6CD2178388C00B976C8 /* CircleImage.swift */; };
 		5ED21FE9216EF26E00BA439D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED21FE8216EF26E00BA439D /* AppDelegate.swift */; };
 		5ED21FEE216EF26E00BA439D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5ED21FEC216EF26E00BA439D /* Main.storyboard */; };
 		5ED21FF0216EF26F00BA439D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5ED21FEF216EF26F00BA439D /* Assets.xcassets */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		41622F52D5E8DA4A7AF58AF1 /* Pods_Smack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Smack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E5FD6CD2178388C00B976C8 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		5ED21FE5216EF26E00BA439D /* Smack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Smack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5ED21FE8216EF26E00BA439D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5ED21FED216EF26E00BA439D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 				5ED22006216EFD0600BA439D /* GradientView.swift */,
 				5ED220122170508300BA439D /* RoundedButton.swift */,
 				5ED220182172F41F00BA439D /* AvatarCell.swift */,
+				5E5FD6CD2178388C00B976C8 /* CircleImage.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				5ED22005216EF7DE00BA439D /* ChannelVC.swift in Sources */,
 				5ED220172172F21600BA439D /* AvatarPickerVC.swift in Sources */,
 				5ED220132170508300BA439D /* RoundedButton.swift in Sources */,
+				5E5FD6CE2178388C00B976C8 /* CircleImage.swift in Sources */,
 				5ED22003216EF7CA00BA439D /* ChatVC.swift in Sources */,
 				5ED2201521705CC400BA439D /* UserDataService.swift in Sources */,
 				5ED2200E216F0D0B00BA439D /* CreateAccountVC.swift in Sources */,
